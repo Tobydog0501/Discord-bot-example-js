@@ -1,5 +1,6 @@
 const { Client, Intents } = require('discord.js');
 const TOKEN = require("./env.json")
+const a = "n"
 const bot = new Client({
     intents: [
         Intents.FLAGS.GUILDS
