@@ -1,8 +1,0 @@
-{
-  "name": "Your-bot-name",
-  "version": "1.0.0",
-  "dependencies": {
-    "discord.js": "^13.2.0",
-    "node": "^16.10.0"
-  }
-}
